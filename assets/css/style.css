@@ -97,7 +97,15 @@ main {
    
 }
 
-/* Footer */
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/image.png") no-repeat center center/cover;
+}
+
+
 /* Footer */
 #social-networks {
     text-align: center;
