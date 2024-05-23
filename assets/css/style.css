@@ -55,6 +55,10 @@ h1 {
     margin-bottom: 1em;
 }
 
+.active {
+    border-bottom: solid 1px #3a3a3a;
+}
+
 
 /* Main content */
 main {
